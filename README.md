@@ -18,3 +18,9 @@ Please keep in mind the finding needed to be reprocess due to the omission for t
     * The Budget per student figures were shown  to be miminally impacted by the difference of cents of the amount.
     * Thomas High School is classified as a charter school.The scores by school only affected the charter school figures.  Please see below: 
     ![TYPE](https://github.com/ValJohns/School_District_Analysis/blob/main/Resources/BOTHTYPE.png)
+
+# Summary:
+1. The District as whole score decrease due to the omitting the 9th grade Thomas High School scores.
+2. No other school was affected due to the other 9th grade scores still being calculated 
+3. The budgets as a whole remain unchanged 
+4. Charters schools saw a drop in scoring due to the NaN replacement. 
