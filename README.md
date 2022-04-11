@@ -8,13 +8,13 @@ Please keep in mind the finding needed to be reprocess due to the omission for t
 
 ## Results: 
 * The distict sumary was affected in every catergory but one, which was the average reading score. The passing reading score experienced the largest decrease by 0.3% with the omission of grade 9 Thomas High School scores. 
-* 
-
+* ![bothdis](https://github.com/ValJohns/School_District_Analysis/blob/main/Resources/bothdissum.png)
 
 * The school was affected similiarly to the district, however in for this summary every testing related catergory decrease and one catergory increased. 
+![THSSUM](https://github.com/ValJohns/School_District_Analysis/blob/main/Resources/BOTHTHSSUM.png)
 
 * The other school were not affected due to the fact that their nine grade scores were still accounted for and used. 
 
     * The Budget per student figures were shown  to be miminally impacted by the difference of cents of the amount.
-    * The score by school type also change slightly. Please see below: 
-    * 
+    * Thomas High School is classified as a charter school.The scores by school only affected the charter school figures.  Please see below: 
+    ![TYPE](https://github.com/ValJohns/School_District_Analysis/blob/main/Resources/BOTHTYPE.png)
