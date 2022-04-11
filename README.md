@@ -8,6 +8,7 @@ Please keep in mind the finding needed to be reprocess due to the omission for t
 
 ## Results: 
 * The distict sumary was affected in every catergory but one, which was the average reading score. The passing reading score experienced the largest decrease by 0.3% with the omission of grade 9 Thomas High School scores. 
+* 
 
 
 * The school was affected similiarly to the district, however in for this summary every testing related catergory decrease and one catergory increased. 
